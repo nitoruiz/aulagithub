@@ -2,3 +2,4 @@ Teste 1: adicionada esta linha.
 Teste 2: adicionada esta linha.
 Teste 3: adicionada esta linha.
 Teste 4: adicionada esta linha.
+Teste 5: adicionada esta linha.
