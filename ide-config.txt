@@ -1,2 +1,3 @@
 Teste 1: adicionada esta linha.
 Teste 2: adicionada esta linha.
+Teste 3: adicionada esta linha.
